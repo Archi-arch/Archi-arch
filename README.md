@@ -20,12 +20,6 @@ I enjoy building tools, automating workflows, working with low-level concepts, a
 **3D / Design:** Blender, AccuRig, Substance  
 **Other:** Git, Networking tools, Excel (advanced)
 
----
-
-## 📬 How to reach me?
-- **Telegram:** @your_username  
-- **Email:** your-email@example.com  
-- **LinkedIn:** *optional link here*
 
 ---
 
