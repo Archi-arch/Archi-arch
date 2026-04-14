@@ -1,41 +1,30 @@
-# 👋 Hi
+👋 Hi, I'm Archi
 
-I'm a software engineer, system administrator, and game developer with experience in Python, C/C++, DevOps, networking, and Unreal Engine 5.  
-I enjoy building tools, automating workflows, working with low-level concepts, and creating games & 3D content.
+Junior DevOps Engineer | .NET & C# Developer | Automation Enthusiast
 
----
+I am a former System Administrator transitioned into a developer role, focusing on streamlining service desk processes, automating workflows, and building robust backend solutions. I enjoy bridging the gap between infrastructure and code.
+🚀 I am currently working on
 
-## 🔧 I am currently working on
-- Developing a dark-fantasy game about an alternate history of Ukraine (UE5)  
-- Improving my system programming & C++ skills  
-- Building automation tools and pet projects in Python  
-- Learning more about cybersecurity and DevOps practices  
+    Automation & Tooling: Developing internal tools using .NET/C# to optimize enterprise workflows.
 
----
+    Database Engineering: Crafting complex T-SQL queries and managing MS SQL Server migrations.
 
-## 🛠 I use
-**Languages:** Python, C, C++, Bash, SQL  
-**DevOps / Infra:** Linux, Docker, GitHub Actions, CI/CD, Nginx  
-**GameDev:** Unreal Engine 5, Blueprints, C++  
-**3D / Design:** Blender, AccuRig, Substance  
-**Other:** Git, Networking tools, Excel (advanced)
+    DevOps Journey: Enhancing CI/CD pipelines and infrastructure as code (IaC) practices.
 
+🛠 Tech Stack
 
----
+Languages & Frameworks: * .NET, C#, Python, T-SQL, Bash
 
-Thanks for visiting my profile! ⭐
+DevOps & Infrastructure:
 
-<!--
-**Archi-arch/Archi-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Docker, GitHub Actions, Linux Administration, CI/CD, Nginx
 
-Here are some ideas to get you started:
+Databases:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    MS SQL Server (Advanced queries, Stored Procedures, Migrations)
+
+Engineering & Hardware (Hobbies):
+
+    3D Printing & CAD: Designing spare parts for automotive service stations (Bambu Lab P1S).
+
+    Electronics: Prototyping with Arduino and various microcontrollers.
